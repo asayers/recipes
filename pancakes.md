@@ -1,20 +1,22 @@
 Bacon and Cinnamon Pancakes
 ===========================
 
+Makes roughly 6 medium-sized (5") pancakes with a cinnamon batter and with bacon embedded inside the pancakes. Served with butter; delicious in the morning with a glass of orange juice!
+
 
 Ingredients
 -----------
 
-1           Egg
-6 oz        Plain flour
-            Milk
-1/2 tsp     Bicarbinate of Soda
-1 tsp       Cream of Tartar
-1 tbsp      Sugar
-pinch       Salt
-1/2-1 tsp   Ground Cinnamon
-            Vegetable oil
-12 rashers  Crispy fried sptreaky bacon
+- 6 oz        Plain flour
+- 1           Egg
+-             Milk
+- 1/2 tsp     Bicarbinate of Soda
+- 1 tsp       Cream of Tartar
+- 1 tbsp      Sugar
+- pinch       Salt
+- 1/2-1 tsp   Ground Cinnamon
+- 12 rashers  Crispy fried streaky bacon
+-             Vegetable oil
 
 
 Method
@@ -30,4 +32,4 @@ Method
 8.  Quickly press two rashers' worth of bacon into the top side of each panckake.
 9.  Fry over a medium heat until the top side has formed bubbles and has lost its liquid sheen (usually around 3 mins).
 10. Flip and leave for another minute or two; both sides should be golden brown.
-11. Enjoy with butter or maple syrup.
+11. Enjoy with butter (or maple syrup if you have a sweet tooth).
