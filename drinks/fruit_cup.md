@@ -30,6 +30,10 @@ Serving
 
 Mix one part Sayers’ No. 1 with three parts lemonade, and serve over crushed ice with fresh mint.
 
+
+Label
+-----
+
 ![Bottle label][img]
 
 [img]: https://github.com/asayers/recipes/raw/master/img/fruit_cup.png
