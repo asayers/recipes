@@ -32,4 +32,4 @@ Mix one part Sayers’ No. 1 with three parts lemonade, and serve over crushed i
 
 ![Bottle label][img]
 
-[img]: ../img/fruit_cup.png
+[img]: https://github.com/asayers/recipes/raw/master/img/fruit_cup.png
