@@ -1,7 +1,7 @@
 Sayers' No. 1
 =============
 
-A refreshing summer fruit cup made with Triple Sec and Elderflower Codial, on a base of gin infused with the peel of oranges and lemons. Makes 70cl of fruit cup, 2.8L when mixed to serve.
+A refreshing summer fruit cup made with triple sec and elderflower cordial, on a base of gin infused with the peel of oranges and lemons. Makes 70cl of fruit cup, 2.8L when mixed to serve.
 
 
 Ingredients
