@@ -12,9 +12,9 @@ Ingredients
 - 100g light muscovado
 - 50g porridge oats (+ 1 tbsp for topping)
 - 2 medium bananas
-- 284ml buttermilk
+- 284ml buttermilk (or a mixture of milk and yoghurt)
 - 5 tbsp light olive oil
-- 2 egg whites
+- 2 egg whites, or 1 large egg
 - 150g blueberries
 
 
