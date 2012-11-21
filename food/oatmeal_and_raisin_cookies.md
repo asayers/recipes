@@ -1,6 +1,17 @@
 Oatmeal and Raisin Cookies (work in progress)
 ==========================
 
+Makes 12.
+
+| Each cookie (90g)           total calories: 360
+| -----------------------------------------------
+| total fat: 12g                          18% RDA
+|     of which saturates: 7g              36% RDA
+| cholesterol: 30mg                       10% RDA
+| sodium: 143mg                            6% RDA
+| total carbohydrates: 61g                20% RDA
+|     of which sugars: 32g                ??% RDA
+| protein: 4g                              7% RDA
 
 Ingredients
 -----------
