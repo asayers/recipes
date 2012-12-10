@@ -25,14 +25,14 @@ Mince:
 
 1. Fry up mince until brown
 2. Sprinkle in a few teaspoons flour
-3. Add vegetables to taste
+3. Add vegetables to taste. Add salt and pepper.
 4. If no watery veges, use half a beef stock cube and water up to the level of the mince
 5. Put lid on pan and boil on low heat (gas mark 4) or in oven for 1 hour. (If on hob, stir!)
 
 Dumplings:
 
 1. Mix flour and suet
-2. Add salt and pepper, and any herbs (or even cheese?)
+2. Add salt and pepper, and any herbs (suggestion: generous amounts of Oregano, Thyme, and Basil)
 3. Add water, a little at a time, and mix until it makes a claggy dough. Don't use too much water.
 4. Roll into small balls and add to stew/mince
 5. Top up water and replace lid. Don't skimp on the water!
