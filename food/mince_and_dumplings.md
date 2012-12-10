@@ -35,5 +35,6 @@ Dumplings:
 2. Add salt and pepper, and any herbs (or even cheese?)
 3. Add water, a little at a time, and mix until it makes a claggy dough. Don't use too much water.
 4. Roll into small balls and add to stew/mince
-5. Top up water, replace lid, and boil on hob for a further 15 mins. Remember to stir!
-6. Drain oil and serve.
+5. Top up water and replace lid. Don't skimp on the water!
+6. Boil on hob for a further 15 mins. Remember to stir!
+7. Drain oil and serve.
