@@ -32,7 +32,7 @@ Mince:
 Dumplings:
 
 1. Mix flour and suet
-2. Add salt and pepper, and any herbs (suggestion: generous amounts of Oregano, Thyme, and Basil)
+2. Add salt and pepper, and any herbs (suggestion: generous amounts of Oregano, Thyme, and Basil - about 6 shakes each)
 3. Add water, a little at a time, and mix until it makes a claggy dough. Don't use too much water.
 4. Roll into small balls and add to stew/mince
 5. Top up water and replace lid. Don't skimp on the water!
