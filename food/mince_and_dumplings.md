@@ -17,10 +17,12 @@ Method
 ------
 
 Preparation:
+
 1. Preheat oven to gas mark 4
 2. Heat oil in a metal-handled saucepan
 
 Mince:
+
 1. Fry up mince until brown
 2. Sprinkle in a few teaspoons flour
 3. Add vegetables to taste
@@ -28,6 +30,7 @@ Mince:
 5. Put lid on pan and boil on low heat (gas mark 4) or in oven for 1 hour. (If on hob, stir!)
 
 Dumplings:
+
 1. Mix flour and suet
 2. Add salt and pepper, and any herbs (or even cheese?)
 3. Add water, a little at a time, and mix until it makes a claggy dough. Don't use too much water.
