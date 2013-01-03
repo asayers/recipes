@@ -18,7 +18,7 @@ Ingredients
 
 - 250g plain flour
 - 170g butter, melted
-- 300g mucavardo sugar
+- 300g muscovado/brown sugar
 - 2 egg yolks
 - 1 tsp of bicarb
 - 2 tbsp hot water
