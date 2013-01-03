@@ -35,7 +35,7 @@ Method
    parchment.
 2. In a bowl, sift together the flour, bicarb, salt, and cinnamon.
 3. In another bowl, cream together the melted butter and sugar until well
-   blended.
+   blended. (Suggestion: add 1tbsp golden syrup.)
 4. Beat in the vanilla, egg yolk, and water until light and creamy.
 5. Mix in the sifted ingredients until just blended.
 6. Stir in the oats and raisins by hand using a wooden spoon.
