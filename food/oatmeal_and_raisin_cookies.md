@@ -8,7 +8,7 @@ Makes 12.
 | total fat: 12g                          18% RDA
 |     of which saturates: 7g              36% RDA
 | cholesterol: 30mg                       10% RDA
-| sodium: 143mg                            6% RDA
+| sodium: 72mg                             3% RDA
 | total carbohydrates: 61g                20% RDA
 |     of which sugars: 32g                ??% RDA
 | protein: 4g                              7% RDA
@@ -23,7 +23,7 @@ Ingredients
 - 1 tsp of bicarb
 - 2 tbsp hot water
 - 1-2 tsp vanilla extract
-- 1 tsp salt
+- 1/2 tsp salt
 - 2 tsp cinnamon
 - 150g porridge oats
 - 150g raisins
@@ -40,9 +40,8 @@ Method
 5. Mix in the sifted ingredients until just blended.
 6. Stir in the oats and raisins by hand using a wooden spoon.
 7. Drop cookie dough onto the prepared baking trays, with each cookie around 4
-   tablespoons of dough (for smaller cookies, drop 1 rounded tablespoonful and
-   adjust baking time as necessary). Do not flatten the dough. Cookies should
-   be about 8cm apart.
+   teaspoons (1 tbsp) of dough. Do not flatten the dough. Cookies should be
+   about 8cm apart.
 8. Bake for 15 to 17 minutes in the preheated oven, or until the edges are
    lightly toasted. Cool on baking trays for a few minutes before transferring
    to wire racks to cool completely.
@@ -56,6 +55,11 @@ and followed the method from a third recipe. Cookies were dry and cakey.
 
 Second attempt: Took about 20 mins to cook. Delicious! Bit too much bicarb
 though...
+
+Third attempt: Only used 1/2 tsp of salt. Cooked for 25 mins. Really delicious.
+Not too bicarby. Note that cookies come out very soft and spongey, but as they
+cool they become hard and chewey. If you leave them until they're hard they'll
+be rock-like when they cool.
 
 Notes
 -----
