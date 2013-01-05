@@ -1,11 +1,13 @@
 Recipes
 =======
 
-A git repository for the few things I know how to cook. If you have suggestions or improvements, please submit a pull request! Also includes drinks.
+This is a recipe book, written in markdown and stored in a git repository. It features a number of original creations, as well as derivative ones. If you like the recipes, feel free to fork it. If you have suggestions or improvements, pull requests will be gratefully received.
 
-Resources
----------
+I am a terrible cook, so all recipes are presented in excruciating detail; anyone should be able to follow them. I recommend the pancakes and cookies as particularly delicious.
 
-- Oh Gosh - for creat cocktail advice and recipes: <http://ohgo.sh/>
-- Epicurious - for a huge selection of user-generates recipes: http://www.epicurious.com/
-- All Recipes - similar to Epicurious: http://allrecipes.co.uk/
+External Resources
+------------------
+
+- [Oh Gosh](http://ohgo.sh/): great cocktail recipes, plus general mixology tips.
+- [Epicurious](http://www.epicurious.com/): a huge selection of user-submitted recipes.
+- [All Recipes](http://allrecipes.co.uk/): similar to Epicurious.
