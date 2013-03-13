@@ -10,14 +10,18 @@ Ingredients
 - 1 onion
 - 1 stick celery
 - chicken/vegetable stock
+
 Vegetables (pick 2 or 3):
+
 - carrots
 - butternut squash
 - sweet potatoes
 - an apple
 - red lentils
 - potato (sparingly) to thicken
+
 Spices (pick 0 or 1):
+
 - turmeric, cumin, paprika, or chilli powder
 
 

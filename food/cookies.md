@@ -23,9 +23,9 @@ Ingredients
 - 2 egg yolks
 - 1/2 tsp of bicarb (don't overdo it!)
 - 2 tbsp hot water
-- 1-2 tsp vanilla extract
+- 1 tsp vanilla extract
 - 1/4 tsp salt
-- 2 tsp cinnamon
+- 3 tsp cinnamon
 - 150g porridge oats
 - 150g raisins
 
