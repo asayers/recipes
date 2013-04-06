@@ -1,7 +1,7 @@
 Toad in the Hole
 ================
 
-Serves 4
+Serves 16
 
 
 Ingredients
@@ -10,7 +10,7 @@ Ingredients
 - 48 pork sausages
 - 16 eggs
 - 1kg plain flour
-- ~1.2kg whole milk (add until consistency of double cream)
+- ~1.2L whole milk (add until consistency of double cream)
 - ~16tbsp dripping/lard or 
 
 
@@ -25,6 +25,35 @@ Method
 6. Tray back in oven. Roast for ~30 mins.
 
 
+Gravy
+=====
+
+- 8 oz (225 g) onions, peeled and sliced
+- 2 teaspoons groundnut or other flavourless oil
+- 1 level teaspoon golden caster sugar
+- 1 dessertspoon Worcestershire sauce
+- 1 level teaspoon mustard powder
+- 15 fl oz (425 ml) vegetable stock made from 1½ level teaspoons Marigold Swiss
+  vegetable bouillon powder dissolved in 15 fl oz (425 ml) boiling water
+- 1 rounded dessertspoon plain flour
+- salt and freshly milled black pepper
+
+1. First add the Worcestershire sauce and mustard powder to the stock, then add
+   the onions from the baking tray to a medium-sized pan. Now add the second
+   teaspoon of oil, then, using a wooden spoon, stir in the plain flour. Stir
+   all this together over a medium heat and then switch to a whisk, then
+   gradually add the stock to the pan, whisking all the time, until it's all
+   in. 
+2. Then bring it up to simmering point and gently simmer for 5 minutes. Taste
+   to check the seasoning, then pour into a warmed serving jug.
+
+
+
+
+
+
+
+<!--
 Sources
 =======
 
@@ -146,24 +175,5 @@ or
    and it's absolutely wonderful with mashed potato.                           
 
 
-Gravy
-=====
+-->
 
-- 8 oz (225 g) onions, peeled and sliced
-- 2 teaspoons groundnut or other flavourless oil
-- 1 level teaspoon golden caster sugar
-- 1 dessertspoon Worcestershire sauce
-- 1 level teaspoon mustard powder
-- 15 fl oz (425 ml) vegetable stock made from 1½ level teaspoons Marigold Swiss
-  vegetable bouillon powder dissolved in 15 fl oz (425 ml) boiling water
-- 1 rounded dessertspoon plain flour
-- salt and freshly milled black pepper
-
-1. First add the Worcestershire sauce and mustard powder to the stock, then add
-   the onions from the baking tray to a medium-sized pan. Now add the second
-   teaspoon of oil, then, using a wooden spoon, stir in the plain flour. Stir
-   all this together over a medium heat and then switch to a whisk, then
-   gradually add the stock to the pan, whisking all the time, until it's all
-   in. 
-2. Then bring it up to simmering point and gently simmer for 5 minutes. Taste
-   to check the seasoning, then pour into a warmed serving jug.
