@@ -20,17 +20,23 @@ Ingredients
 
 ###Sauce
 
-- Butter
-- Single cream
-- Onions
-- Tomatos
-- Garlic
-- Ginger
-- Green chillis
-- Cardamom, cloves, cumin, cinnamon, coriander seeds, turmeric, chilli powder, garlic powder
-- Salt, pepper, sugar
-- Red/yellow food colourings
-- Lemon juice
+- 75g butter
+- 100ml single cream
+- 1 onion
+- 400g chopped tomatos
+- 4 cloves garlic
+- ~ 1 in^3 of ginger
+- 1 green chilli pepper
+- 8 cardamom pods
+- 1 tsp cloves
+- 2 tsp cumin
+- 2 tsp cinnamon
+- 1 tsp coriander seeds
+- 2 tsp turmeric
+- 1 tsp cayenne chilli powder
+- 1 cap lemon juice
+- 2 tbsp sugar
+- some salt/garlic powder and pepper
 
 ###Accompaniments
 
@@ -55,8 +61,9 @@ Method
    chicken from the marinade and place it in the pan. Add the remaining
    marinade to the blender and blend to a paste. Pour the sauce back into the
    pan and place on high heat.
-7. Boil the chicken in the sauce. Add the cream to bulk it out. Add spices to
-   taste.
+7. Boil the chicken in the sauce. When it's cooked through, begin correcting
+   the texture and flavour. Add cream to smooth the sauce out, and additional
+   spices to improve the taste.
 8. Destarch the rice and add it with salt and pepper to a pan of boiling water.
    Place naan breads in oven.
 9. Make sure the chicken is cooked through. Decorate with a swirl of cream and
