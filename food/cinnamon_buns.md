@@ -1,4 +1,4 @@
-Makes around 30 buns.
+Makes around 30 buns. Recipe from Carl Baatz.
 
 Dough
 -----
