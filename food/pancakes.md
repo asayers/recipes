@@ -7,16 +7,16 @@ Makes roughly 6 medium-sized (5") pancakes with a cinnamon batter and with bacon
 Ingredients
 -----------
 
-- 6 oz        Plain flour
-- 1           Egg
--             Milk
-- 1/2 tsp     Bicarbinate of Soda
-- 1 tsp       Cream of Tartar
-- 1 tbsp      Sugar
-- pinch       Salt
-- 1/2-1 tsp   Ground Cinnamon
-- 12 rashers  Crispy fried streaky bacon
--             Vegetable oil
+- 6 oz Plain flour
+- 1 Egg
+- Milk
+- 1/2 tsp Bicarbinate of Soda
+- 1 tsp Cream of Tartar
+- 1 tbsp Sugar
+- pinch Salt
+- 1/2-1 tsp Ground Cinnamon
+- 12 rashers Crispy fried streaky bacon
+- Vegetable oil
 
 
 Method
